@@ -1,3 +1,8 @@
 home Create First
+<<<<<<< HEAD
 work add home chnage2
 home : add 2
+=======
+work add home change1
+home : add 2
+>>>>>>> 0e17bf9be9aeaaac2ff64febd0cc2f7e956d01b3
