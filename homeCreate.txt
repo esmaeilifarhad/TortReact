@@ -1,2 +1,3 @@
 home Create First
-work add it 1
+work add home delete
+home : add 2
